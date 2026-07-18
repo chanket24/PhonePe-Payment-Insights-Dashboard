@@ -11,13 +11,6 @@ The dashboard enables stakeholders to monitor KPIs, identify transaction pattern
 
 ---
 
-## 📷 Dashboard Preview
-
-> **dashboard screenshot here**
-
-```
-"C:\Users\Sanket\OneDrive\Pictures\Screenshots\Screenshot 2026-07-18 155053.png"
-
 ## 🎯 Business Objective
 
 The objective of this dashboard is to:
@@ -34,14 +27,7 @@ The objective of this dashboard is to:
 
 # 📂 Dataset
 
-**Source File**
-
-```
-"C:\Users\Sanket\Downloads\phonepayfinal\Phonepe-Final-Dataset.xlsx"
-```
-
- The dataset contains multiple worksheets including:
-
+* The dataset contains multiple worksheets including:
 - All_Transactions
 - All_Users
 
